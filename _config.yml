@@ -1,0 +1,28 @@
+name: esecolectivo
+favicon: null
+layout_spectrum: 0.44036883185617626
+typography_spectrum: 0.9772661025635898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.19835766428150237
+  lightness: 0.5013161215465516
+  saturation: 0.714540233137086
+  rhythmicContrast: 0.2684077590238303
+purpose: []
