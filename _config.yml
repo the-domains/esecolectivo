@@ -1,6 +1,6 @@
 name: esecolectivo
 favicon: null
-layout_spectrum: 0.99007
+layout_spectrum: 0.48622
 typography_spectrum: 0.68718
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#c0813e'
   brandStrength: 0.6875
   lightness: 0.75
-  saturation: 0.4375
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
