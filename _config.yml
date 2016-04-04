@@ -1,7 +1,7 @@
 name: esecolectivo
 favicon: null
 layout_spectrum: 0.48622
-typography_spectrum: 0.68718
+typography_spectrum: 0.34928
 collections:
   - index:
       path: /
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a8a7a5'
-    - '#8e8d8b'
-    - '#c3c2c0'
-    - '#5e5d5b'
-    - '#f2f0f1'
+    - '#ffffff'
+    - '#010101'
+    - '#49240a'
+    - '#76421b'
+    - '#c0813e'
   brandStrength: 0.6875
   lightness: 0.75
   saturation: 0.3125
