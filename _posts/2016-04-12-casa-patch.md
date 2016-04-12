@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T16:39:20.144Z'
-dateModified: '2016-04-12T16:39:05.075Z'
+datePublished: '2016-04-12T16:42:22.600Z'
+dateModified: '2016-04-12T16:42:19.567Z'
 title: Casa Patch
 author: []
+sourcePath: _posts/2016-04-12-casa-patch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-casa-patch.md
-published: true
 url: casa-patch/index.html
 _type: Article
 
