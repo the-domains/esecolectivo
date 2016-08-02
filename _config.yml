@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5d6be48-c8ec-4621-bc2e-b5bdbb321fdf.png
 name: esecolectivo
 cta:
   domain: null
