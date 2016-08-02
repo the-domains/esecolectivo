@@ -1,7 +1,30 @@
-name: esecolectivo
-favicon: null
-layout_spectrum: 0.67419
 typography_spectrum: 0.34928
+color:
+  brandColors:
+    - '#a8a7a5'
+    - '#8e8d8b'
+    - '#c3c2c0'
+    - '#5e5d5b'
+    - '#f2f0f1'
+  brandStrength: 0.125
+  lightness: 0.125
+  saturation: 0.9375
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67419
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: esecolectivo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#a8a7a5'
-    - '#8e8d8b'
-    - '#c3c2c0'
-    - '#5e5d5b'
-    - '#f2f0f1'
-  brandStrength: 0.125
-  lightness: 0.125
-  saturation: 0.9375
-  rhythmicContrast: 0.75
+title: ESE colectivo
 purpose: []
